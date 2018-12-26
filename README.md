@@ -3,7 +3,7 @@ ThinkPHP5.1Smarty 引擎驱动
 
 ## 安装方法
 
-使用composer安装模版引擎方法: `composer require yaofulai/think-smarty`
+使用composer安装模版引擎方法: `composer require emmetltd/think-smarty`
 
 ## ThinkPHP5.1 配置template.php文件中参数
 
