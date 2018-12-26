@@ -1,6 +1,6 @@
 {
     "type": "project",
-    "name": "yaofulai/think-smarty",
+    "name": "emmetltd/think-smarty",
     "homepage": "http://www.emmetltd.com",
     "description": "ThinkPHP5.1 Smarty Template Driver",
     "license": "MIT",
