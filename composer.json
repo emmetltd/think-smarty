@@ -1,0 +1,24 @@
+{
+    "type": "project",
+    "name": "yaofulai/think-smarty",
+    "homepage": "http://www.emmetltd.com",
+    "description": "ThinkPHP5.1 Smarty Template Driver",
+    "license": "MIT",
+    "keywords": [
+        "think-smarty",
+        "thinkphp5.1"
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "smarty/smarty": "^3.1"
+    },
+    "support": {
+        "issues": "https://github.com/yaofulai/think-smarty/issues"
+    },
+    "autoload": {
+        "classmap": {
+            "think\\view\\driver\\Smarty": "src/Smarty.php"
+        }
+    }
+}
+
